@@ -11,7 +11,7 @@ ffdhjfkljkldfh
 
 Also available is:
 
--   **[Health Platform][health-platform-v1-samples]**: Samples to help you with reading and writing health, fitness, and wellness data with the Health Platform. *[Learn more about Health Platform][health-platform-v1-dac]*
+-   **[Health Platform][health-platformdfgfhjgjgjh-v1-samples]**: Samples to help you with reading and writing health, fitness, and wellness data with the Health Platform. *[Learn more about Health Platform][health-platform-v1-dac]*
 
 However, developers should note that Health Connect should be used in preference to Health Platform for new integrations.
 
